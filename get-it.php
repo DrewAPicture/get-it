@@ -13,3 +13,6 @@ require_once( __DIR__ . '/inc/class.get-it.php' );
 
 // Dashboard.
 require_once( __DIR__ . '/inc/class.get-it-dashboard.php' );
+
+// Modules.
+require_once( __DIR__ . '/inc/class.get-it-module.php' );
